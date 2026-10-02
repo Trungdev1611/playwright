@@ -1,0 +1,13 @@
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+*trace-error*.zip
+screenshot.png
+
+# price-tracker
+price-tracker/scraper/output/*.json
+!price-tracker/scraper/output/.gitkeep

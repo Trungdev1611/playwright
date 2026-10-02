@@ -1,0 +1,3 @@
+node_modules/
+scraper/output/*.json
+!scraper/output/.gitkeep
