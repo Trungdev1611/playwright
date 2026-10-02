@@ -4,7 +4,11 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "scrape:tgdd": "node sites/tgdd.js"
+    "scrape:tgdd": "node sites/tgdd.js",
+    "scrape:cellphones": "node sites/cellphones.js",
+    "scrape:gearvn": "node sites/gearvn.js",
+    "scrape:phongvu": "node sites/phongvu.js",
+    "scrape:all": "npm run scrape:tgdd && npm run scrape:cellphones && npm run scrape:gearvn && npm run scrape:phongvu"
   },
   "dependencies": {
     "playwright": "^1.63.0"

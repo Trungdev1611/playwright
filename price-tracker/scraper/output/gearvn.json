@@ -1,19 +1,13 @@
 {
   "site": "gearvn",
   "category_url": "https://gearvn.com/search?q=laptop+asus",
-  "scraped_at": "2026-10-02T03:54:56.763Z",
+  "scraped_at": "2026-10-02T07:58:10.090Z",
   "products": [
     {
       "name": "Laptop Asus Vivobook 14 X1404V (Core 5-120U/ 8GB/ 256GB/ 14\" FHD/ Win 11)",
       "price": 16590000,
       "image": "https://cdn.hstatic.net/products/200000722513/laptop-asus-vivobook-14-x1404v-core-5-120u-8gb-256gb-14-fhd-win-11-1_0946b4f67f9c47d2bdecd31efba18b4c.jpg",
       "url": "https://gearvn.com/products/laptop-asus-vivobook-14-x1404v-core-5-120u-8gb-256gb-14-fhd-win-11"
-    },
-    {
-      "name": "Laptop ASUS VivoBook S14 S3407CA-SF913W (Ultra 5-225H/ 16GB/ 512GB/ 14\" OLED/ Win 11)",
-      "price": 27890000,
-      "image": "https://cdn.hstatic.net/products/200000722513/book-s14-s3407ca-sf913w-ultra-5-225h-16gb-512gb-14-wuxga-oled-win-11-1_2a441019e8464332a2c23543ecbfeafa.jpg",
-      "url": "https://gearvn.com/products/laptop-asus-vivobook-s14-s3407ca-sf913w-ultra-5-225h-16gb-512gb-14-wuxga-oled-win-11"
     },
     {
       "name": "Laptop Asus ExpertBook P3 P3406CCAP-U716W (Ultra 7-255H/ 16GB/ 512GB/ 14.0\" IPS/ Win 11)",
@@ -28,16 +22,22 @@
       "url": "https://gearvn.com/products/laptop-asus-expertbook-p3-p3406ccap-u516w-14-ips-60hz-intel-core-ultra-5-225h-16gb-512gb-windows-11"
     },
     {
-      "name": "Laptop Asus ExpertBook P1403CVA-C5H08-50W (Core 5-210H/ 8GB/ 512GB/ 14.0\" FHD/ Win 11)",
-      "price": 19490000,
-      "image": "https://cdn.hstatic.net/products/200000722513/laptop-asus-expertbook-p1-p1403cva-c5h08-50w-1_ee04ed8246ba48aaa864a74a108c791a.jpg",
-      "url": "https://gearvn.com/products/laptop-asus-expertbook-p1-p1403cva-c5h08-50w"
+      "name": "Laptop ASUS VivoBook S14 S3407CA-SF913W (Ultra 5-225H/ 16GB/ 512GB/ 14\" OLED/ Win 11)",
+      "price": 27890000,
+      "image": "https://cdn.hstatic.net/products/200000722513/book-s14-s3407ca-sf913w-ultra-5-225h-16gb-512gb-14-wuxga-oled-win-11-1_2a441019e8464332a2c23543ecbfeafa.jpg",
+      "url": "https://gearvn.com/products/laptop-asus-vivobook-s14-s3407ca-sf913w-ultra-5-225h-16gb-512gb-14-wuxga-oled-win-11"
     },
     {
       "name": "Laptop Asus ExpertBook P1403CVA-C5H16-50W (Core 5-210H/ 16GB/ 512GB/ 14\" FHD/ Win 11)",
       "price": 23390000,
       "image": "https://cdn.hstatic.net/products/200000722513/laptop-asus-expertbook-p1403cva-c5h16-50w-1_7b1ab501dd6b44bc822f0fcfc8d15315.jpg",
       "url": "https://gearvn.com/products/laptop-asus-expertbook-p1403cva-c5h16-50w"
+    },
+    {
+      "name": "Laptop Asus ExpertBook P1403CVA-C5H08-50W (Core 5-210H/ 8GB/ 512GB/ 14.0\" FHD/ Win 11)",
+      "price": 19490000,
+      "image": "https://cdn.hstatic.net/products/200000722513/laptop-asus-expertbook-p1-p1403cva-c5h08-50w-1_ee04ed8246ba48aaa864a74a108c791a.jpg",
+      "url": "https://gearvn.com/products/laptop-asus-expertbook-p1-p1403cva-c5h08-50w"
     },
     {
       "name": "Laptop Asus ExpertBook P1 P1403CVA-C7H16-50W (Core 7-240H/ 16GB/ 512GB/ 14\" FHD/ Win 11)",
