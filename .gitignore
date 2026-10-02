@@ -7,7 +7,3 @@ node_modules/
 /playwright/.auth/
 *trace-error*.zip
 screenshot.png
-
-# price-tracker
-price-tracker/scraper/output/*.json
-!price-tracker/scraper/output/.gitkeep
